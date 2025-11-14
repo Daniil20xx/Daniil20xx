@@ -35,12 +35,11 @@
 
 #### 💻 Языки программирования
 <p>
-  <img src="https://img.shields.io/badge/Go-00ADD8?logo=go&style=flat" />
   <img src="https://img.shields.io/badge/Python-3776AB?logo=python&style=flat" />
   <img src="https://img.shields.io/badge/Java-007396?logo=java&style=flat" />
   <img src="https://img.shields.io/badge/C-00599C?logo=c&style=flat" />
   <img src="https://img.shields.io/badge/C++-00599C?logo=cplusplus&style=flat" />
-  <img src="https://img.shields.io/badge/Dart-0175C2?logo=dart&style=flat" />
+  <img src="https://img.shields.io/badge/Go-00ADD8?logo=go&style=flat" />
 </p>
 
 ---
