@@ -4,7 +4,7 @@
 
 ---
 
-## 📫 Контакты
+## Контакты:
 
 **Telegram:** @Daniil20xx
 
@@ -14,7 +14,7 @@
 
 ## 🛠 Технологии и инструменты
 
-#### 🔧 Infrastructure / DevOps
+#### Infrastructure / DevOps
 <p>
   <img src="https://img.shields.io/badge/Linux-black?logo=linux&style=flat" />
   <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&style=flat" />
@@ -27,13 +27,13 @@
   <img src="https://img.shields.io/badge/Grafana-F46800?logo=grafana&style=flat" />
 </p>
 
-#### 🗄 Базы данных
+#### Базы данных
 <p>
   <img src="https://img.shields.io/badge/PostgreSQL-316192?logo=postgresql&style=flat" />
   <img src="https://img.shields.io/badge/MongoDB-4EA94B?logo=mongodb&style=flat" />
 </p>
 
-#### 💻 Языки программирования
+#### Языки программирования
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?logo=python&style=flat" />
   <img src="https://img.shields.io/badge/Java-007396?logo=java&style=flat" />
@@ -69,7 +69,8 @@ Python, TCP-сокеты, собственная клиент-серверная
 - настойчивость в решении задач  
 - готовность разбираться до результата  
 - командная работа  
-- энтузиазм в освоении новых технологий  
+- энтузиазм в освоении новых технологий 
+- Figma (basic UI/UX design)
 
 ---
 
