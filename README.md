@@ -31,6 +31,7 @@
 <p>
   <img src="https://img.shields.io/badge/PostgreSQL-316192?logo=postgresql&style=flat" />
   <img src="https://img.shields.io/badge/MongoDB-4EA94B?logo=mongodb&style=flat" />
+  <img src="https://img.shields.io/badge/Redis-4EA94B?logo=redis&style=flat" />
 </p>
 
 #### Языки программирования
