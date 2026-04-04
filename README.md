@@ -43,11 +43,14 @@
   <img src="https://img.shields.io/badge/Go-00ADD8?logo=go&style=flat" />
 </p>
 
+<h3 align="center"> Спасибо, что заглянули! Буду рад новым контактам и проектам!</h3>
+
+
 ---
 
-## 🧭 Учебные проекты
+## Проекты
 
-#### 🧠 Smartify — экосистема для подготовки к ЕГЭ  
+#### Smartify — экосистема для подготовки к ЕГЭ  
 Backend на Go + Flutter-клиент, Docker Compose, деплой, работа в команде.
 
 🔗 Репозиторий: https://github.com/IU-Capstone-Project-2025/Smartify  
@@ -55,22 +58,10 @@ Backend на Go + Flutter-клиент, Docker Compose, деплой, работ
 
 ---
 
-#### 🎮 TCP Quiz — многопользовательская игра  
+#### TCP Quiz — многопользовательская игра  
 Python, TCP-сокеты, собственная клиент-серверная архитектура.
 
 🔗 Репозиторий: https://github.com/Multiplayer-Game-Server/Multiplayer_Game_Server  
 🎥 Видео-демо: https://drive.google.com/file/d/19YvbMzYLiLI9NGH0IqktNVvgKz62URGh/view  
 
 ---
-
-## Soft Skills
-
-- ответственность  
-- системный подход  
-- настойчивость в решении задач  
-- готовность разбираться до результата  
-- командная работа  
-- энтузиазм в освоении новых технологий 
-- Figma (basic UI/UX design)
-
-<h3 align="center"> Спасибо, что заглянули! Буду рад новым контактам и проектам!</h3>
